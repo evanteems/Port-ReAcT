@@ -1,0 +1,18 @@
+.about {
+  background: #2f394d;
+  margin: 10;
+}
+
+#root {
+  background-color: #2f394d;
+  margin: 10;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: large;
+  font-weight:600
+}

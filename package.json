@@ -1,0 +1,22 @@
+{
+  "name": "port-react",
+  "version": "1.0.0",
+  "description": "As an employer looking for candidates with experience building single-page applications I want to view a potential employee's deployed React portfolio of work samples so that I can assess whether they're a good candidate for an open position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanteems/Port-ReAcT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanteems/Port-ReAcT/issues"
+  },
+  "homepage": "https://github.com/evanteems/Port-ReAcT#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
