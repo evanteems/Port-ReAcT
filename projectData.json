@@ -5,5 +5,26 @@
         "url": "https://github.com/evanteems/Musix-Genre",
         "photo": "https://user-images.githubusercontent.com/74688019/107077031-24d0ee80-67a1-11eb-8692-0452ca384e31.png",
         "github": "https://github.com/evanteems/Musix-Genre"
+    },
+    {
+        "name": "Mvc-Blog",
+        "description": "Creates a blog where the user can post, look at post, login and logout",
+        "url": "https://github.com/evanteems/mvc-blog",
+        "photo": "In the README.md of the url above",
+        "github": "https://github.com/evanteems/mvc-blog"
+    },
+    {
+        "name": "Weather Dashboard",
+        "description": "Displays weather from a desired city",
+        "url": "https://github.com/evanteems/weather-dashboard",
+        "photo": "The photo is in the directory root",
+        "github": "https://github.com/evanteems/weather-dashboard"
+    },
+    {
+        "name": "The Budget",
+        "description": "Creates a budget where the user can manage their expenses and see a graph on their positive and negative gross.",
+        "url": "https://github.com/evanteems/The-BUDGET",
+        "photo": "https://user-images.githubusercontent.com/74634325/116167707-a0ae4900-a6b5-11eb-9465-931a25597c05.png",
+        "github": "https://github.com/evanteems/The-BUDGET"
     }
 ]

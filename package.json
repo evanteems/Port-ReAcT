@@ -1,6 +1,7 @@
 {
   "name": "port-react",
   "version": "1.0.0",
+  "private": true,
   "description": "As an employer looking for candidates with experience building single-page applications I want to view a potential employee's deployed React portfolio of work samples so that I can assess whether they're a good candidate for an open position.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +18,34 @@
   },
   "homepage": "https://github.com/evanteems/Port-ReAcT#readme",
   "dependencies": {
-    "react": "^17.0.2"
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^13.1.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browsersList": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
